@@ -8,7 +8,7 @@ rest api from Vlad Minin lessons
 
 ---
 
-Personal project of [Dmitriy Oskarov](http://frontendfrontier.com/)
+Personal project of [Dmitriy Oskarov](#)
 
 ---
 

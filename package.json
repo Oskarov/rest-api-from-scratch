@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-from-scratch",
+  "version": "1.0.0",
+  "description": "rest api from Vlad Minin lessons",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oskarov/rest-api-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oskarov/rest-api-from-scratch/issues"
+  },
+  "homepage": "https://github.com/Oskarov/rest-api-from-scratch#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
